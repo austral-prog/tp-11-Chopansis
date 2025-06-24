@@ -1,0 +1,1 @@
+producto1:150;producto2:200;producto3:120;producto1:130;producto2:210;producto3:140
